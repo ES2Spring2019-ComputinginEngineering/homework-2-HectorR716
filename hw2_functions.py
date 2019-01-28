@@ -35,7 +35,7 @@ def intersectionoftwolines_y(m1, b1, m2, b2):
     # y = (m1 * x) + b1 and y = (m2 * x) + b2 intersect.
 
 
-    y = 0 #replace this with your calculation for y
+    y = ban #replace this with your calculation for y
     return y
 
 
